@@ -1,11 +1,15 @@
 <h1 align="center">Hi 👋, I'm Siddhant Sirohi</h1>
-<h3 align="center">An aspiring software developer from India</h3>
+<h3 align="center">A aspiring software developer from India</h3>
+
+- 🌱 I’m currently learning **Machine Learning**
+
+- 👨‍💻 All of my projects are available at [https://github.com/siddhantsirohi2](https://github.com/siddhantsirohi2)
 
 - 📫 How to reach me **siddhantsirohi2@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/siddhant-sirohi-833476253/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/siddhant-sirohi-833476253/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/siddhant-sirohi-833476253/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/siddhant-sirohi-833476253/" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/siddhant_sirohi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="siddhant_sirohi" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/siddhant2sirohi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="siddhant2sirohi" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/siddhants930" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="siddhants930" height="30" width="40" /></a>
