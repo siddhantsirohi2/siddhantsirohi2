@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Siddhant Sirohi</h1>
-<h3 align="center">A passionate developer from India</h3>
+<h3 align="center">An aspiring software developer from India</h3>
 
 - 📫 How to reach me **siddhantsirohi2@gmail.com**
 
